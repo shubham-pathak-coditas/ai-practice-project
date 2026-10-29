@@ -1,0 +1,10 @@
+From: David Kim <david.kim@example.com>
+To: support@shop.example
+Subject: Refund the lamp please
+Date: 2026-10-29 11:45
+
+Hi,
+
+The Smart LED Desk Lamp from ORD-1008 is faulty. Please refund me the 39.90.
+
+David
